@@ -1,5 +1,27 @@
 {
 
+  "notification": {
+    "email": {
+      "post": {
+        "new": "A new idea has been posted",
+        "new_self": "You posted a new idea",
+        "endorsement": "X endorsed the idea Z",
+        "endorsement_self": "X endorsed your idea Z",
+        "opposition": "X opposed the idea Z",
+        "opposition_self": "X opposed your idea Z"
+      },
+      "point": {
+        "new": "X added a new point to your idea Z",
+        "unhelpful": "X found your point not helpful",
+        "helpful": "X found your point helpful"
+      },
+      "reset_password_1": "Reset your password",
+      "reset_password_2": "Password reset instructions",
+      "reset_password_3": "Reset even more passwords",
+      "password_changed_1": "Your password has been changed"
+    }
+  },
+
   "name": "Name",
 
   "domain": {
